@@ -2,8 +2,6 @@ package com.synopsyspoc.pipeline
 
 class Libraries {
 
-  def script
-
   Libraries(){
   }
   
