@@ -8,7 +8,7 @@ class Libraries {
   }
   
   public String getMessage(String msg){
-    println(msg)
+    return msg
   }
 
 }
